@@ -11,17 +11,17 @@ var fs=require('fs');
 
 nimble.parallel([
     function(callback) {
-        var content = fs.readFile('./hello.js','utf-8');
+        var content = fs.readFileSync('./hello.js','utf-8');
         console.log(content.length);
         callback();
     },
     function(callback) {
-        var content = fs.readFile('./converter.js','utf-8');
+        var content = fs.readFileSync('./converter.js','utf-8');
         console.log(content.length);
         callback();
     },
     function(callback) {
-        var content = fs.readFile('./closure.js','utf-8');
+        var content = fs.readFileSync('./closure.js','utf-8');
         console.log(content.length);
         callback();
     }], function (callback) {
