@@ -1,10 +1,4 @@
-require('colors');
+var converter = require('./converter');
 
-function hello(name){
-console.log("hallokes " + name);
-console.log("hallokes".underline.red);
-console.log("hallokes".rainbow);
-}
-
-hello('steven');
-
+var c = converter.exchangeRate(1.2741);
+console.log (c(500));
