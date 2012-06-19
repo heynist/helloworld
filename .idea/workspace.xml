@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c628811b-1202-46db-8332-e1ee52b6e8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nimble_async_read.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nimble_async_read.js" afterPath="$PROJECT_DIR$/nimble_async_read.js" />
     </list>
     <ignored path="helloworld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +45,7 @@
       <file leaf-file-name="nimble_async_read.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nimble_async_read.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="0.9183673">
+            <state line="25" column="19" selection-start="705" selection-end="705" vertical-scroll-proportion="0.80867344">
               <folding />
             </state>
           </provider>
@@ -83,8 +81,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="717" />
-    <option name="y" value="84" />
+    <option name="x" value="703" />
+    <option name="y" value="75" />
     <option name="width" value="1152" />
     <option name="height" value="744" />
   </component>
@@ -195,7 +193,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="717" y="84" width="1152" height="744" extended-state="0" />
+    <frame x="703" y="75" width="1152" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -205,7 +203,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -301,7 +299,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nimble_async_read.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="0.9183673">
+        <state line="25" column="19" selection-start="705" selection-end="705" vertical-scroll-proportion="0.80867344">
           <folding />
         </state>
       </provider>

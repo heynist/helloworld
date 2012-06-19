@@ -11,13 +11,19 @@ var fs=require('fs');
 
 nimble.parallel([
     function(callback) {
-        var content = fs.readFile('./hello.js','utf-8', eofCallback);
+        var content = fs.readFile('./hello.js','utf-8');
+        console.log(content.length);
+        callback();
     },
     function(callback) {
-        var content = fs.readFile('./converter.js','utf-8', eofCallback);
+        var content = fs.readFile('./converter.js','utf-8');
+        console.log(content.length);
+        callback();
     },
     function(callback) {
-        var content = fs.readFile('./closure.js','utf-8', eofCallback);
+        var content = fs.readFile('./closure.js','utf-8');
+        console.log(content.length);
+        callback();
     }], function (callback) {
         console.log('all done');
     }
